@@ -4,7 +4,7 @@ function add(num1, num2){
     }
     return num1 + num2;
 }
-let total = add(15,);
+let total = add(15);
 console.log("First Result:", total);
 
 
@@ -17,3 +17,4 @@ console.log("Result: ", add2(5,7));
 console.log("Result2: ", add2(5));
 
 
+ 
